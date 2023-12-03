@@ -1,0 +1,10 @@
+/* Estilo personalizado para el difuminado detrás del texto en el carrusel */
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.5); /* Fondo oscuro con opacidad */
+    padding: 10px; /* Espaciado alrededor del texto */
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+body {
+    background-color: #f8f9fa;
+}
